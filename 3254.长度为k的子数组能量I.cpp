@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=3222 lang=cpp
+ * @lc app=leetcode.cn id=3254 lang=cpp
  *
- * [3222] 求出硬币游戏的赢家
+ * [3254] 长度为K的子数组能量I
  */
 #include <iostream>
 #include <vector>
