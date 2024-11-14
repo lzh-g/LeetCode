@@ -15,6 +15,7 @@ public:
     {
         int n = s.size();
         vector<int> count(2, 0);
+        // right[i]表示l为i时，首次不满足K约束的右边界下标
         vector<int> right(n, n);
         vector<long long> prefix(n + 1, 0);
         int i = 0;
