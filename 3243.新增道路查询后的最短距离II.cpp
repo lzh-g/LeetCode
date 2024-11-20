@@ -15,6 +15,7 @@ class Solution
 public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>> &queries)
     {
+        // 由题意，不存在u0<u1<v0<v1，即不会存在交叉道路，要么包含要么分开
         // roads[u]=v表示存在u->v的单向道路
         vector<int> roads(n);
         // 初始时，仅存在i->i+1的单向道路
