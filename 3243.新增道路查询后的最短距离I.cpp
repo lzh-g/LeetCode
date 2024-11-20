@@ -1,7 +1,7 @@
 /*
  * @lc app=leetcode.cn id=3243 lang=cpp
  *
- * [3243] 新增道路查询后的最短独立I
+ * [3243] 新增道路查询后的最短距离I
  */
 #include <iostream>
 #include <vector>
