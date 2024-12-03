@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode.cn id=3261 lang=cpp
+ * @lc app=leetcode.cn id=3274 lang=cpp
  *
  * [3274] 检查棋盘放个颜色是否相同
  */
